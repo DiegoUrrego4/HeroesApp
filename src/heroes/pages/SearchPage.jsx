@@ -58,7 +58,7 @@ export const SearchPage = () => {
             className='alert alert-danger animate__animated animate__fadeIn'
             style={{ display: showError ? '' : 'none' }}
           >
-            No hero found with <b>{q}</b>
+            No hero with name <b>{q}</b> found
           </div>
 
           {heroes.map((hero) => (
