@@ -3,4 +3,4 @@ This App was build using React Js using heroes from Marvel and DC Comics as my m
 
 # Start the App:
 You can start it using the following command: <b>yarn dev</b>
-if you want to check it online you click this url: 
+if you want to check it online you click this url: <a>https://diegourrego4.github.io/HeroesApp/</a> 
